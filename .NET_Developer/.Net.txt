@@ -32,10 +32,11 @@ Plataforma de desenvolvimento unificado que permite a construção de sistemas e
 
 - Extensão VS Code:
     - C#
-    - .NET Extension Pack (Incluso o Jupyter notebook)
+    - .NET Extension Pack (Incluso o Jupyter notebook). OBS: Não utilizar no dia a dia porque cria maus hábitos, 
+    tais como a ausência de ';' rodar normalmente e não apresentar erro
     - vscode-icons
     - C# Extensions
 
 - Comandos no Terminal:
     - dotnet new console: cria um projeto do .NET ou outros artefatos com base em um modelo
-    - dotnet run: roda os comandos
+    - dotnet run: roda os comandos (necessário salvar antes de rodar)

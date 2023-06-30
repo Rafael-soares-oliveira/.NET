@@ -1,0 +1,15 @@
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\bin\Debug\net7.0\Aulas.exe
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\bin\Debug\net7.0\Aulas.deps.json
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\bin\Debug\net7.0\Aulas.runtimeconfig.json
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\bin\Debug\net7.0\Aulas.dll
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\bin\Debug\net7.0\Aulas.pdb
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\Aulas.csproj.AssemblyReference.cache
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\Aulas.AssemblyInfoInputs.cache
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\Aulas.AssemblyInfo.cs
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\Aulas.csproj.CoreCompileInputs.cache
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\Aulas.dll
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\refint\Aulas.dll
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\Aulas.pdb
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\Aulas.genruntimeconfig.cache
+C:\Users\Rafas\Desktop\Cursos\.NET\.NET\.NET_Developer\Aulas\obj\Debug\net7.0\ref\Aulas.dll
