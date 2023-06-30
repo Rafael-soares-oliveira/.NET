@@ -1,0 +1,41 @@
+
+Plataforma de desenvolvimento unificado que permite a construção de sistemas e aplicações.
+
+- .NET é uma plataforma open-source, criada pela Microsoft, para construção de diferentes tipos de aplicações. (Microsoft)
+
+- Linguagens de programação do .NET:
+    - C#
+    - F#
+    - Visual Basic
+
+- Aplicações .NET:
+    - Desktop:
+        - WPF
+        - Windows Forms
+        - UWP
+    - WEB:
+        - ASP.NET
+    - Cloud:
+        - Azure
+    - Mobile:
+        - Xamarin
+    - Gaming:
+        - Unity
+    - IoT:
+        - ARM32
+        - ARM64
+    - AI:
+        - ML.NET
+        - .NET For
+        - Apache Spark
+
+
+- Extensão VS Code:
+    - C#
+    - .NET Extension Pack (Incluso o Jupyter notebook)
+    - vscode-icons
+    - C# Extensions
+
+- Comandos no Terminal:
+    - dotnet new console: cria um projeto do .NET ou outros artefatos com base em um modelo
+    - dotnet run: roda os comandos
