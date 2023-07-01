@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\Aulas.csproj": {}
+    "c:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\Aulas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\Aulas.csproj": {
+    "c:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\Aulas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\Aulas.csproj",
+        "projectUniqueName": "c:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\Aulas.csproj",
         "projectName": "Aulas",
-        "projectPath": "C:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\Aulas.csproj",
+        "projectPath": "c:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\Aulas.csproj",
         "packagesPath": "C:\\Users\\Rafas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\obj\\",
+        "outputPath": "c:\\Users\\Rafas\\Desktop\\Cursos\\.NET\\.NET\\.NET_Developer\\Aulas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafas\\AppData\\Roaming\\NuGet\\NuGet.Config"
